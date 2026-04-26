@@ -91,10 +91,10 @@ I'm a **Computer Science graduate** and **Information Security master's student*
 | 🎓 **EduHub** | Online education platform — Bachelor's Thesis. Role-based system, Stripe payments, course recommendations, dual-DB architecture | `C#` `.NET 8` `Blazor` `PostgreSQL` `EF Core` | [View →](https://github.com/Lucian292/EduHub) |
 | 🌐 **SocialNetwork** | Full-stack social platform — feed, posts, stories, real-time chat & notifications, E2E tests | `ASP.NET Core 9` `Next.js` `TypeScript` `Redis` `SignalR` `Docker` | [View →](https://github.com/Lucian292/Retea-de-socializare) |
 | 🔗 **Blockchain Crowdfunding** | Decentralized crowdfunding on Ethereum using ERC-20 tokens — campaign factory, contributions, fund distribution | `Solidity` `Hardhat` `Ethers.js` `React` `OpenZeppelin` | [View →](https://github.com/Lucian292/blockchain-crowdfunding) |
-| 🎮 **Pokémon Microservices** | Pokémon-themed game built on a microservices architecture | `Microservices` `Backend` | [View →](https://github.com/Lucian292) |
-| 🖥️ **ESP32 Game Console** | Embedded game console on ESP32 hardware | `C/C++` `Embedded` | [View →](https://github.com/Lucian292) |
-| 🗂️ **Browser-RegEdit** | Browser-based registry editor interface | `Web` | [View →](https://github.com/Lucian292) |
-| ⚙️ **LFAC Compiler** | Custom compiler implementation for a formal language | `C/C++` `Compiler Theory` | [View →](https://github.com/Lucian292) |
+| 🎮 **Pokémon Microservices** | Pokémon-themed game built on a microservices architecture | `Microservices` `Backend` | [View →](https://github.com/Lucian292/PokemonGame) |
+| 🖥️ **ESP32 Game Console** | Embedded game console on ESP32 hardware | `C/C++` `Embedded` | [View →](https://github.com/Lucian292/esp32GameConsole) |
+| 🗂️ **Bureaucracy Hacks** | Web platform guiding users through bureaucratic procedures with checklist systems and document management | `Web` | [View →](https://github.com/Lucian292/BureaucracyHacks_IP_Project_BackEnd) |
+| ⚙️ **LFAC Compiler** | Custom compiler implementation for a formal language | `C/C++` `Compiler Theory` | [View →](https://github.com/Lucian292/LFAC-Compiler2) |
 
 > 🔍 *See all projects on my [Portfolio](https://lucianmunteanu.pages.dev/portfolio.html)*
 
@@ -120,11 +120,11 @@ I'm a **Computer Science graduate** and **Information Security master's student*
 
 | Certificate | Issuer |
 |---|---|
-| ☁️ AWS Cloud Engineering Masterclass | Amazon Web Services |
-| 🐳 Journey into the World of DevOps | — |
-| ☕ Java in the World of Microservices | — |
-| 🐘 PHP Basics | — |
-| 🤝 Beyond Coding – Soft Skills | — |
+| ☁️ AWS Cloud Engineering Masterclass | Levi9 |
+| 🐳 Journey into the World of DevOps | Yonder |
+| ☕ Java in the World of Microservices | Bytex |
+| 🐘 PHP Basics | Feel IT Services |
+| 🤝 Beyond Coding – Soft Skills | camLine |
 
 ---
 

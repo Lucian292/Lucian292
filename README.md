@@ -94,7 +94,7 @@ I'm a **Computer Science graduate** and **Information Security master's student*
 | 🎮 **Pokémon Microservices** | Pokémon-themed game built on a microservices architecture | `Microservices` `Backend` | [View →](https://github.com/Lucian292/PokemonGame) |
 | 🖥️ **ESP32 Game Console** | Embedded game console on ESP32 hardware | `C/C++` `Embedded` | [View →](https://github.com/Lucian292/esp32GameConsole) |
 | 🗂️ **Bureaucracy Hacks** | Web platform guiding users through bureaucratic procedures with checklist systems and document management | `Web` | [View →](https://github.com/Lucian292/BureaucracyHacks_IP_Project_BackEnd) |
-| ⚙️ **LFAC Compiler** | Custom compiler implementation for a formal language | `C/C++` `Compiler Theory` | [View →](https://github.com/Lucian292/LFAC-Compiler2) |
+| ⚙️ **LFAC Compiler** | Custom compiler implementation for a formal language | `C/C++` `Compiler Theory` | [View →](https://github.com/Lucian292/LFAC-Compiler) |
 
 > 🔍 *See all projects on my [Portfolio](https://lucianmunteanu.pages.dev/portfolio.html)*
 
